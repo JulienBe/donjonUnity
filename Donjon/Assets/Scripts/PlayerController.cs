@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour {
 		dir = transform.TransformDirection (dir);
 		//controller.Move (dir); 
 		//controller.SimpleMove(dir);
+    Debug.Log(dir);
 		controller.Move (dir);
 	}
 
