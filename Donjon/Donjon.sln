@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donjon", "Assembly-CSharp-firstpass.csproj", "{6626E6C3-A582-2D5E-202B-CE24F56C6DB9}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donjon", "Assembly-CSharp.csproj", "{103369A5-594E-20ED-930F-100F846B79C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donjon", "Assembly-CSharp-Editor-firstpass.csproj", "{6AC587B9-3E6E-900D-4FAA-AB059222E410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6626E6C3-A582-2D5E-202B-CE24F56C6DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6626E6C3-A582-2D5E-202B-CE24F56C6DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6626E6C3-A582-2D5E-202B-CE24F56C6DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6626E6C3-A582-2D5E-202B-CE24F56C6DB9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{103369A5-594E-20ED-930F-100F846B79C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{103369A5-594E-20ED-930F-100F846B79C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{103369A5-594E-20ED-930F-100F846B79C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{103369A5-594E-20ED-930F-100F846B79C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC587B9-3E6E-900D-4FAA-AB059222E410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC587B9-3E6E-900D-4FAA-AB059222E410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC587B9-3E6E-900D-4FAA-AB059222E410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC587B9-3E6E-900D-4FAA-AB059222E410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
