@@ -57,6 +57,7 @@
      <Compile Include="Assets\Other\Done\Done_Scripts\Done_RandomRotator.cs" />
      <Compile Include="Assets\Other\Done\Done_Scripts\Done_WeaponController.cs" />
      <Compile Include="Assets\Scripts\BulletMover.cs" />
+     <Compile Include="Assets\Scripts\Fractal.cs" />
      <Compile Include="Assets\Scripts\MapGenerator.cs" />
      <Compile Include="Assets\Scripts\MeshGenerator.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
